@@ -1,0 +1,5 @@
+{
+  "name": "RateStore - Minimalist Store Rating Platform",
+  "description": "A robust, monochromatic web application for managing stores, users, and ratings with role-based access control.",
+  "requestFramePermissions": []
+}
