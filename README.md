@@ -219,7 +219,13 @@ This should return a JSON response with status "healthy".
 
 The server uses tsx for TypeScript execution, which provides seamless CommonJS and ES module support. The frontend is built with Vite for fast development and optimized production builds.
 
+## Screenshots
 
-![Screenshot](C:\Users\Lenovo\Desktop\RATING-SYS-ROXILER\images\Screenshot 2026-02-06 131655.png)
-![Screenshot](C:\Users\Lenovo\Desktop\RATING-SYS-ROXILER\images\Screenshot 2026-02-06 131806.png)
-![Screenshot](C:\Users\Lenovo\Desktop\RATING-SYS-ROXILER\images\Screenshot 2026-02-06 172552.png)
+### Application Interface
+![Dashboard Screenshot](images/Screenshot%202026-02-06%20131655.png)
+
+### User Management
+![User Management Screenshot](images/Screenshot%202026-02-06%20131806.png)
+
+### Store Management
+![Store Management Screenshot](images/Screenshot%202026-02-06%20172552.png)
